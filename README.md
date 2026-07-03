@@ -13,4 +13,4 @@
     - 🌱 I’m currently learning Haskell. Haskell Language is intuitive and refreshing. It is like framing mathematical formulas and it has steep learning curve.
     
 - 💞️ I’m looking to collaborate on any project that requires creativity and innovation
-- 📫 How to reach me -> amit.gowda@evofin.co.in
+- 📫 How to reach me -> admin@dwellmint.studio
